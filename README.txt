@@ -108,9 +108,15 @@ Run Tests
 npm test
 
 Environment Configuration
-
 Create a .env file based on .env.example:
-API_URL=https://demo-api.pizzapantry.com
+# Server port
+PORT=4000
+
+# MongoDB connection URI (replace with your own)
+MONGO_URI=your-mongodb-uri-here
+
+# JWT secret key (replace with your own)
+JWT_SECRET=your-jwt-secret-here
 
 Please find screenshots of working app in the images folder. 
 The main branch contains the whole project and the AppBranch contains the files for the pizza-pantry-mobile folder. 
