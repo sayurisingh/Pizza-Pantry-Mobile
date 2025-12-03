@@ -113,6 +113,9 @@ Create a .env file based on .env.example:
 API_URL=https://demo-api.pizzapantry.com
 
 Please find screenshots of working app in the images folder. 
+The main branch contains the whole project and the AppBranch contains the files for the pizza-pantry-mobile folder. 
+Clone both branches and copy the files from AppBranch into the the pizza-pantry-mobile folder and then run using the above instructions. 
+
 
 
 
